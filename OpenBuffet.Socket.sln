@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "doc", "doc", "{673C9FC4-A862-4ADE-A050-E6A911C9AC82}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{F5EE0450-A54B-4465-8861-47805F80289E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sample", "sample", "{D6BC67FA-D94A-47F5-8554-18CE5A94EA17}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{4CA9D106-05D6-4B02-8F3F-FD5865E8CD75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenBuffet.Socket.Test", "test\OpenBuffet.Socket.Test\OpenBuffet.Socket.Test.csproj", "{B4E00165-D645-4E16-9A0C-14951C987DBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenBuffet.Socket.Core", "src\OpenBuffet.Socket.Core\OpenBuffet.Socket.Core.csproj", "{85C84102-A924-42DE-8B3E-2E89EC1DAE0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenBuffet.Socket.Sample", "sample\OpenBuffet.Socket.Sample\OpenBuffet.Socket.Sample.csproj", "{71F24E0F-DBBB-4020-8EE3-8E9C779A5823}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4E00165-D645-4E16-9A0C-14951C987DBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4E00165-D645-4E16-9A0C-14951C987DBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4E00165-D645-4E16-9A0C-14951C987DBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4E00165-D645-4E16-9A0C-14951C987DBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85C84102-A924-42DE-8B3E-2E89EC1DAE0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85C84102-A924-42DE-8B3E-2E89EC1DAE0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85C84102-A924-42DE-8B3E-2E89EC1DAE0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85C84102-A924-42DE-8B3E-2E89EC1DAE0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71F24E0F-DBBB-4020-8EE3-8E9C779A5823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71F24E0F-DBBB-4020-8EE3-8E9C779A5823}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71F24E0F-DBBB-4020-8EE3-8E9C779A5823}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71F24E0F-DBBB-4020-8EE3-8E9C779A5823}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B4E00165-D645-4E16-9A0C-14951C987DBD} = {4CA9D106-05D6-4B02-8F3F-FD5865E8CD75}
+		{85C84102-A924-42DE-8B3E-2E89EC1DAE0C} = {F5EE0450-A54B-4465-8861-47805F80289E}
+		{71F24E0F-DBBB-4020-8EE3-8E9C779A5823} = {D6BC67FA-D94A-47F5-8554-18CE5A94EA17}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.Socket\sample\OpenBuffet.Socket.Sample\bin\Release\net8.0\OpenBuffet.Socket.Sample.exe
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.Socket\sample\OpenBuffet.Socket.Sample\bin\Release\net8.0\OpenBuffet.Socket.Sample.deps.json
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.Socket\sample\OpenBuffet.Socket.Sample\bin\Release\net8.0\OpenBuffet.Socket.Sample.runtimeconfig.json
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.Socket\sample\OpenBuffet.Socket.Sample\bin\Release\net8.0\OpenBuffet.Socket.Sample.dll
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.Socket\sample\OpenBuffet.Socket.Sample\bin\Release\net8.0\OpenBuffet.Socket.Sample.pdb
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.Socket\sample\OpenBuffet.Socket.Sample\obj\Release\net8.0\OpenBuffet.Socket.Sample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.Socket\sample\OpenBuffet.Socket.Sample\obj\Release\net8.0\OpenBuffet.Socket.Sample.AssemblyInfoInputs.cache
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.Socket\sample\OpenBuffet.Socket.Sample\obj\Release\net8.0\OpenBuffet.Socket.Sample.AssemblyInfo.cs
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.Socket\sample\OpenBuffet.Socket.Sample\obj\Release\net8.0\OpenBuffet.Socket.Sample.csproj.CoreCompileInputs.cache
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.Socket\sample\OpenBuffet.Socket.Sample\obj\Release\net8.0\OpenBuffet.Socket.Sample.sourcelink.json
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.Socket\sample\OpenBuffet.Socket.Sample\obj\Release\net8.0\OpenBuffet.Socket.Sample.dll
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.Socket\sample\OpenBuffet.Socket.Sample\obj\Release\net8.0\refint\OpenBuffet.Socket.Sample.dll
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.Socket\sample\OpenBuffet.Socket.Sample\obj\Release\net8.0\OpenBuffet.Socket.Sample.pdb
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.Socket\sample\OpenBuffet.Socket.Sample\obj\Release\net8.0\OpenBuffet.Socket.Sample.genruntimeconfig.cache
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.Socket\sample\OpenBuffet.Socket.Sample\obj\Release\net8.0\ref\OpenBuffet.Socket.Sample.dll
